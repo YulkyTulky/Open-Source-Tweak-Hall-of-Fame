@@ -22,4 +22,5 @@ Xen-HTML - https://github.com/Matchstic/Xen-HTML.git
 
 
 
-**Note:**: I am not the developer of any of these tweaks. I find them interesting, impressive, and to be great learning tools for an aspiring top developer. Also, this list is a work in progress, so I am very open to new tweak submissions for the Hall of Fame!
+##### Note
+I am not the developer of any of these tweaks. I find them interesting, impressive, and to be great learning tools for an aspiring top developer. Also, this list is a work in progress, so I am very open to new tweak submissions for the Hall of Fame!
