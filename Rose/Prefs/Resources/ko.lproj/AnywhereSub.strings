@@ -1,0 +1,45 @@
+{
+
+  "ENABLE_ANYWHERE_SECTION" = "어디든지 섹션 사용";
+  "ENABLE_SECTION" = "섹션 사용";
+
+  "HAPTIC_FEEDBACK_WHEN" = "진동 피드백 작동 조건";
+
+  "KILLING_APP" = "앱 종료";
+  "APP_SWITCHER_IS_USED" = "앱 전환기 사용";
+  "CALLING_SIRI" = "Siri 호출";
+  "TAKING_SCREENSHOT" = "스크린샷";
+  "BEGIN_OR_END_REACHABILITY" = "화면 상단 간편 접근 시작/종료";
+  "USING_TEXT_SELECTION" = "텍스트 선택";
+  "ENTERING_POWER_DOWN_VIEW" = "밀어서 전원 끄기 진입";
+  "RESPRINING" = "리스프링";
+  "TYPING" = "타자";
+  "ENTERING_HOMESCREEN" = "홈화면 진입";
+  "ALERT_APPEARS" = "경고 발생";
+  "ALERT_DISAPPEARS" = "경고 사라짐";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "맞춤 강도 설정";
+
+  "CUSTOM_KILLING_STRENGTH" = "앱 종료 강도";
+  "CUSTOM_SWITCHER_STRENGTH" = "앱 전환기 강도";
+  "CUSTOM_SIRI_STRENGTH" = "시리 호출 강도";
+  "CUSTOM_SCREENSHOT_STRENGTH" = "스크린샷 강도";
+  "CUSTOM_REACHABILITY_STRENGTH" = "화면 상단 간편 접근 강도";
+  "CUSTOM_TEXT_SELECTION_STRENGTH" = "텍스트 선택 강도";
+  "CUSTOM_POWER_DOWN_VIEW_STRENGTH" = "밀어서 전원 끄기 진입 강도";
+  "CUSTOM_RESPRING_STRENGTH" = "리스프링 강도";
+  "CUSTOM_TYPING_STRENGTH" = "타자 강도";
+  "CUSTOM_ENTERING_HOMESCREEN_STRENGTH" = "홈화면 진입 강도";
+  "CUSTOM_ALERT_APPEARING_STRENGTH" = "경고 발생 강도";
+  "CUSTOM_ALERT_DISAPPEARING_STRENGTH" = "경고 사라짐 강도";
+
+  "NONE" = "없음";
+  "LIGHT_HAPTIC_ENGINE" = "가벼운: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "중간: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "무거운: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "가벼운: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "중간: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "무거운: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "약한: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "단단한: Taptic Engine";
+}

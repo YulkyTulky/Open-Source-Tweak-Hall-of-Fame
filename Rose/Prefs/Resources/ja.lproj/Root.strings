@@ -1,0 +1,77 @@
+{
+
+  "ROSE" = "Rose";
+
+  "LIGHT" = "軽";
+  "MEDIUM" = "中";
+  "HEAVY" = "重";
+  "SOFT" = "軟";
+  "RIGID" = "硬";
+  "STRONG" = "強";
+  "DEFAULT" = "デフォルト";
+  "CUSTOM" = "カスタム";
+
+  "TAPTIC_ENGINE_STRENGTH" = "Taptic Engineの強さ";
+  "IPHONE_7_OR_7PLUS_AND_UP" = "iPhone 7/7+ とそれ以上のデバイス";
+  "USE_TAPTIC_ENGINE" = "Taptic Engineを使う";
+
+  "HAPTIC_ENGINE_STRENGTH" = "Haptic Engineの強さ";
+  "IPHONE_6S_OR_6SPLUS" = "iPhone 6s/6s+";
+  "USE_HAPTIC_ENGINE" = "Haptic Engineを使う";
+
+  "LEGACY_SUPPORT" = "古いデバイス向け";
+  "IPHONE_SE_OR_6_AND_SO_FAR" = "iPhone SE/6..";
+  "USE_LEGACY_ENGINE" = "古いエンジンを使う";
+  "CUSTOM_LEGACY_SETTINGS" = "古いデバイス向けのカスタム設定";
+  
+  "HAPTIC_FEEDBACK_OPTIONS" = "Haptic触感の設定";
+  
+  "HOMESCREEN" = "ホームスクリーン";
+  "LOCKSCREEN" = "ロックスクリーン";
+  "ANYWHERE" = "常時";
+  "HARDWARE_BUTTONS" = "物理ボタン";
+  "CONTROL_CENTER" = "コントロールセンター";
+  "STATUS_CHANGES" = "状態の変化";
+  "OTHER_HARDWARE_ACTIONS" = "他の物理的な動作";
+  "SYSTEM_WIDE" = "システム全般";
+  "APPLICATIONS" = "アプリケーション";
+  "EXCEPTIONS" = "例外";
+  "ADDITIONALS" = "追加の設定";
+
+  "HAPTIC_DELAY_IN_SECONDS" = "Hapticの遅延秒数";
+  "ENABLE_DELAY" = "遅延を有効にする";
+
+  "OTHER_OPTIONS" = "他の設定";
+  "RESPRING" = "リスプリング";
+  "RESET_PREFERENCES" = "プレファレンスをリセット";
+  "SHOW_SETUP_AGAIN" = "セットアップを再表示";
+  
+  "SENDING_LOVE_TO" = "愛を贈る";
+  "THANKS_KRITANTA_FOR_THE_PRETTY_TWITTER_CELLS" = "Thanks kritanta For The Pretty Twitter Cells";
+
+  "CONTRIBUTORS_CREDITS" = "テストと翻訳";
+  "CONTRIBUTORS" = "貢献者";
+  "HELP_TRANSLATING_ROSE" = "Roseの翻訳を手伝う";
+
+  "GIVE_THESE_A_LOOK" = "試してみて";
+  "LUNE_DESCRIPTION" = "おやすみモードの時に月のアイコンを表示する";
+  "AESTEA_DESCRIPTION" = "creamが恋しい？Aesteaを使ってみて";
+  "BUTTERFLY_DESCRIPTION" = "文字選択、だけどカラフル";
+  
+  "SUPPORT_ME" = "サポートする";
+  "ROSE_BY_LITTEN_
+ARTWORKS_BY_TAKI" = "Rose By Litten
+Artworks By taki";
+
+  "LITTLE_DONATION_🌺" = "Littleへ寄付する 🌺";
+  "APPRECIATED_💘" = "感謝します 💘";
+  "FEATURE_REQUEST?_✨" = "機能リクエスト? ✨";
+  "SEND_ME_AN_EMAIL_WITH_YOUR_REQUEST" = "リクエストをemailで送ってください";
+  "SOURCE_CODE_🌙" = "ソースコード 🌙";
+  "ITS_ON_MY_GITHUB" = "GitHubにあります";
+  "FOUND_A_BUG?_🌧" = "バグを見つけた? 🌧";
+  "LEAVE_A_BUG_REPORT_HERE" = "バグ・レポートをここに残してください";
+  
+  "MADE_WITH_💙" = "Made With 💙";
+
+}

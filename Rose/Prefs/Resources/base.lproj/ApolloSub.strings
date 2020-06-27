@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_APOLLO_SUPPORT" = "Enable Apollo Support";
+  "APOLLO_SUPPORT" = "Apollo Support";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback When..";
+
+  "TAPPING_THE_JUMP_BAR" = "Tapping The Jump Bar";
+  "TAPPING_THE_FLOATING_BUTTON" = "Tapping The Floating Button";
+  "TAPPING_MOST_ELEMENTS" = "Tapping Most Elements";
+  "TAPPING_UIBUTTON_ELEMENTS" = "Tapping UIButton Elements";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Custom Strength Settings";
+
+  "CUSTOM_JUMP_BAR_STRENGTH" = "Custom Jump Bar Strength";
+  "CUSTOM_FLOATING_BUTTON_STRENGTH" = "Custom Floating Button Strength";
+  "CUSTOM_CERTAIN_ELEMENTS_STRENGTH" = "Custom Certain Elements Strength";
+  "CUSTOM_UIBUTTON_STRENGTH" = "Custom UIButton Strength";
+
+  "NONE" = "None";
+  "LIGHT_HAPTIC_ENGINE" = "Light: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Medium: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Heavy: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Light: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Medium: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Strong: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Soft: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rigid: Taptic Engine";
+
+}

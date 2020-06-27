@@ -1,0 +1,28 @@
+{
+
+  "ENABLE_HARDWARE_BUTTONS_SECTION" = "하드웨어 버튼 섹션 사용";
+  "ENABLE_SECTION" = "섹션 사용";
+
+  "HAPTIC_FEEDBACK_WHEN" = "진동 피드백 작동 조건";
+
+  "VOLUME_CHANGED" = "음량 조절";
+  "PRESSING_ONLY_SLEEP_BUTTON" = "잠자기 버튼만 누르기";
+  "PRESSING_HOME_OR_SLEEP_BUTTON" = "홈/잠자기 버튼 누르기";
+  "UNMUTING" = "음소거 해제";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "맞춤 강도 설정";
+
+  "CUSTOM_VOLUME_STRENGTH" = "음량 강도";
+  "CUSTOM_SLEEP_BUTTON_STRENGTH" = "잠자기 버튼 강도";
+  "CUSTOM_RINGER_STRENGTH" = "음소거 강도";
+
+  "NONE" = "없음";
+  "LIGHT_HAPTIC_ENGINE" = "가벼운: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "중간: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "무거운: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "가벼운: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "중간: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "무거운: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "약한: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "단단한: Taptic Engine";
+}

@@ -1,0 +1,32 @@
+{
+
+  "ENABLE_INSTAGRAM_SUPPORT" = "Instagram تمكين";
+  "INSTAGRAM_SUPPORT" = "Instagram دعم";
+
+  "HAPTIC_FEEDBACK_WHEN" = "تمكين إهتزاز عند ..";
+
+  "TAPPING_LIKE_BUTTON" = "زر أعجاب";
+  "DOUBLE_TAPPING_TO_LIKE" = "ضغطتين للأعجاب";
+  "TAPPING_COMMENT_BUTTON" = "زر التعليق";
+  "TAPPING_SAVE_BUTTON" = "زر الحفظ";
+  "TAPPING_SEND_BUTTON" = "زر إرسال";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "إعدادات إهتزاز مخصصة";
+
+  "CUSTOM_LIKE_BUTTON_STRENGTH" = "زر أعجاب";
+  "CUSTOM_DOUBLE_TAP_TO_LIKE_STRENGTH" = "ضغطتين للأعجاب";
+  "CUSTOM_COMMENT_BUTTON_STRENGTH" = "زر التعليق";
+  "CUSTOM_SAVE_BUTTON_STRENGTH" = "زر الحفظ";
+  "CUSTOM_SEND_BUTTON_STRENGTH" = "زر إرسال";
+
+  "NONE" = "لاشئ";
+  "LIGHT_HAPTIC_ENGINE" = "إهتزاز هابتك خفيف";
+  "MEDIUM_HAPTIC_ENGINE" = "إهتزازهابتك متوسط";
+  "HEAVY_HAPTIC_ENGINE" = "إهتزاز هابتك قوي";
+  "LIGHT_TAPTIC_ENGINE" = "محرك إهتزاز خفيف";
+  "MEDIUM_TAPTIC_ENGINE" = "محرك إهتزاز متوسط";
+  "STRONG_TAPTIC_ENGINE" = "محرك إهتزاز قوي";
+  "SOFT_TAPTIC_ENGINE" = "إهتزاز هابتك ناعم";
+  "RIGID_TAPTIC_ENGINE" = "إهتزاز هابتك جامد";
+
+}

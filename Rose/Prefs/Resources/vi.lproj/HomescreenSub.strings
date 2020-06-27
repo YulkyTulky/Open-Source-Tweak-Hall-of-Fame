@@ -1,0 +1,34 @@
+{
+
+  "ENABLE_HOMESCREEN_SECTION" = "Phần kích hoạt cho màn hình chính";
+  "ENABLE_SECTION" = "Bật phần này";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Phản hồi xúc giác khi..";
+
+  "3DTOUCH_ACTION_OR_DISMISSES" = "Loại bỏ hành động 3D Touch";
+  "OPENING_FOLDER" = "Mở thư mục";
+  "CLOSING_FOLDER" = "Đóng thư mục";
+  "TAPPING_ICON" = "Nhấn vào biểu tượng";
+  "SWIPING_TO_NEXT_OR_PREVIOUS_PAGE" = "Vuốt sang trang sau hoặc trước";
+  "OPENING_SPOTLIGHT_SEARCH" = "Mở thanh tìm kiếm Spotlight";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Cài đặt tuỳ chỉnh cường độ";
+
+  "CUSTOM_3DTOUCH_STRENGTH" = "Khi loại bỏ hành động 3D Touch";
+  "CUSTOM_FOLDER_OPEN_STRENGTH" = "Khi mở thư mục";
+  "CUSTOM_FOLDER_CLOSE_STRENGTH" = "Khi đóng thư mục";
+  "CUSTOM_ICON_TAP_STRENGTH" = "Khi nhấn vào biểu tượng";
+  "CUSTOM_PAGE_SWIPE_STRENGTH" = "Khi vuốt sang trang sau hoặc trước";
+  "CUSTOM_SPOTLIGHT_STRENGTH" = "Khi mở thanh tìm kiếm Spotlight";
+
+  "NONE" = "Không";
+  "LIGHT_HAPTIC_ENGINE" = "Nhẹ: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Vừa: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Mạnh: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Nhẹ: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Vừa: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Mạnh: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Mềm mại: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rất mạnh: Taptic Engine";
+
+}

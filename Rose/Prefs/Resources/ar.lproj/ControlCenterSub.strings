@@ -1,0 +1,28 @@
+{
+
+  "ENABLE_CONTROL_CENTER_SECTION" = "تفعيل أقسام مركز التحكم";
+  "ENABLE_SECTION" = "أقسام التفعيل";
+
+  "HAPTIC_FEEDBACK_WHEN" = "تمكين إهتزاز عند ..";
+
+  "TOGGLING_CONNECTIVITY_TOGGLE" = "عناصر أتصال";
+  "OPENING_CONTROL_CENTER" = "فتح وإغلاق مركز تحكم";
+  "TOGGLING_CC_MODULE" = "تبديل وحدات (تجريبي)";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "إعدادات إهتزاز مخصصة";
+
+  "CUSTOM_CC_TOGGLE_STRENGTH" = "عناصر أتصال";
+  "CUSTOM_OPEN_CONTROL_CENTER_STRENGTH" = "فتح وإغلاق مركز تحكم";
+  "CUSTOM_CC_MODULE_STRENGTH" = "تبديل وحدات";
+
+  "NONE" = "لاشئ";
+  "LIGHT_HAPTIC_ENGINE" = "إهتزاز هابتك خفيف";
+  "MEDIUM_HAPTIC_ENGINE" = "إهتزازهابتك متوسط";
+  "HEAVY_HAPTIC_ENGINE" = "إهتزاز هابتك قوي";
+  "LIGHT_TAPTIC_ENGINE" = "محرك إهتزاز خفيف";
+  "MEDIUM_TAPTIC_ENGINE" = "محرك إهتزاز متوسط";
+  "STRONG_TAPTIC_ENGINE" = "محرك إهتزاز قوي";
+  "SOFT_TAPTIC_ENGINE" = "إهتزاز هابتك ناعم";
+  "RIGID_TAPTIC_ENGINE" = "إهتزاز هابتك جامد";
+
+}

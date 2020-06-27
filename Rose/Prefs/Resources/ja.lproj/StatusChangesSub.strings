@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_STATUS_CHANGES_SECTION" = "状態の変化の設定を有効化";
+  "ENABLE_SECTION" = "有効化";
+
+  "HAPTIC_FEEDBACK_WHEN" = "この時Haptic触感を起こします！";
+
+  "UNLOCKED_OR_NC" = "アンロックした/通知センターを開いた時";
+  "LOCKED" = "ロックした時";
+  "AUTHENTICATED_WITH_TOUCH_OR_FACEID" = "Touch/FaceIDで認証した時";
+  "CALLL_CONNECTS_OR_DISCONNECTS" = "電話を繋いだ/切れた時";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "強さのカスタム設定";
+
+  "CUSTOM_UNLOCK_STRENGTH" = "アンロックした/通知センターを開いた時の強さ";
+  "CUSTOM_LOCK_STRENGTH" = "ロックした時の強さ";
+  "CUSTOM_AUTHETICATION_STRENGTH" = "Touch/FaceIDで認証した時の強さ";
+  "CUSTOM_CALL_STRENGTH" = "電話を繋いだ/切れた時の強さ";
+
+  "NONE" = "無し";
+  "LIGHT_HAPTIC_ENGINE" = "軽: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "中: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "重: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "弱: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "中: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "強: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "軟: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "硬: Taptic Engine";
+
+}

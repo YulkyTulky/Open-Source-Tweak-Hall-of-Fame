@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_PHONE_SUPPORT" = "電話の設定を有効化";
+  "PHONE_SUPPORT" = "有効化";
+
+  "HAPTIC_FEEDBACK_WHEN" = "この時Haptic触感を起こします！";
+
+  "TAPPING_DIALER_NUMBER_PAD_BUTTON" = "ダイヤルナンバーボタンを押した時";
+  "TAPPING_CONTACTS_CELL" = "連絡先の項目をタップした時";
+  "TAPPING_DIALER_DELETE_BUTTON" = "ダイヤル削除ボタンを押した時";
+  "TAPPING_DIALER_CALL_BUTTON" = "ダイヤルコールボタンを押した時";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "強さのカスタム設定";
+
+  "CUSTOM_DIALER_NUMBER_PAD_STRENGTH" = "ダイヤルナンバーボタンを押した時の強さ";
+  "CUSTOM_CONTACT_CELL_STRENGTH" = "連絡先の項目をタップした時の強さ";
+  "CUSTOM_DIALER_DELETE_BUTTON_STRENGTH" = "ダイヤル削除ボタンを押した時の強さ";
+  "CUSTOM_DIALER_CALL_BUTTON_STRENGTH" = "ダイヤルコールボタンを押した時の強さ";
+
+  "NONE" = "無し";
+  "LIGHT_HAPTIC_ENGINE" = "軽: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "中: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "重: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "弱: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "中: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "強: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "軟: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "硬: Taptic Engine";
+
+}

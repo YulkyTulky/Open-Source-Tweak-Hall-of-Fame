@@ -1,0 +1,32 @@
+{
+
+  "ENABLE_TWITTER_SUPPORT" = "Twitterの設定を有効化";
+  "TWITTER_SUPPORT" = "Twitterの設定";
+
+  "HAPTIC_FEEDBACK_WHEN" = "この時Haptic触感を起こします！";
+
+  "USING_TABBAR" = "タブバーを使用した時";
+  "TAPPING_ON_A_TWEET" = "ツイートをタップした時";
+  "TAPPING_A_DM_CHAT" = "DMチャットをタップした時";
+  "TAPPING_ON_A_NOTIFICATION" = "通知をタップした時";
+  "USING_THE_FLOATING_TWEET_BUTTON" = "ツイートボタンを使用した時";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "強さのカスタム設定";
+
+  "CUSTOM_TABBAR_STRENGTH" = "タブバーを使用した時の強さ";
+  "CUSTOM_TWEET_STRENGTH" = "ツイートをタップした時の強さ";
+  "CUSTOM_DM_STRENGTH" = "DMチャットをタップした時の強さ";
+  "CUSTOM_NOTIFICATION_STRENGTH" = "通知をタップした時の強さ";
+  "CUSTOM_FLOATING_TWEET_BUTTON_STRENGTH" = "ツイートボタンを使用した時の強さ";
+
+  "NONE" = "無し";
+  "LIGHT_HAPTIC_ENGINE" = "軽: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "中: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "重: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "弱: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "中: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "強: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "軟: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "硬: Taptic Engine";
+
+}

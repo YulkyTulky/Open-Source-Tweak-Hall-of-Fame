@@ -1,0 +1,34 @@
+{
+
+  "ENABLE_SYSTEM_WIDE_SECTION" = "Enable System Wide Section";
+  "ENABLE_SECTION" = "Enable Section";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback When..";
+
+  "TAPPING_UIBUTTON" = "Tapping UIButton";
+  "TAPPING_UIBUTTONBARBUTTON" = "Tapping UIButtonBarButton";
+  "TAPPING_UITABBARBUTTON" = "Tapping UITabBarButton";
+  "TAPPING_UIIMAGEVIEW" = "Tapping UIImageView";
+  "TAPPING_UIVIEW" = "Tapping UIView";
+  "TAPPING_UIWINDOW" = "Tapping UIWindow";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Custom Strength Settings";
+
+  "CUSTOM_UIBUTTON_STRENGTH" = "Custom UIButton Strength";
+  "CUSTOM_UIBUTTONBARBUTTON_STRENGTH" = "Custom UIButtonBarButton Strength";
+  "CUSTOM_UITABBARBUTTON_STRENGTH" = "Custom UITabBarButton Strength";
+  "CUSTOM_UIIMAGEVIEW_STRENGTH" = "Custom UIImageView Strength";
+  "CUSTOM_UIVIEW_STRENGTH" = "Custom UIView Strength";
+  "CUSTOM_UIWINDOW_STRENGTH" = "Custom UIWindow Strength";
+
+  "NONE" = "None";
+  "LIGHT_HAPTIC_ENGINE" = "Light: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Medium: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Heavy: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Light: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Medium: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Strong: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Soft: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rigid: Taptic Engine";
+
+}

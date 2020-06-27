@@ -1,0 +1,28 @@
+{
+
+  "ENABLE_CONTROL_CENTER_SECTION" = "Activar Sección Centro de Control";
+  "ENABLE_SECTION" = "Activar Sección";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback al...";
+
+  "TOGGLING_CONNECTIVITY_TOGGLE" = "Activar Toggle en Conectividad";
+  "OPENING_CONTROL_CENTER" = "Abrir Centro de Control";
+  "TOGGLING_CC_MODULE" = "Activar Toggle de un Módulo (Experimental)";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Personalizar Ajustes de Intensidad en...";
+
+  "CUSTOM_CC_TOGGLE_STRENGTH" = "Activar Toggle en Conectividad";
+  "CUSTOM_OPEN_CONTROL_CENTER_STRENGTH" = "Abrir Centro de Control";
+  "CUSTOM_CC_MODULE_STRENGTH" = "CActivar Toggle de un Módulo";
+
+  "NONE" = "Ninguno";
+  "LIGHT_HAPTIC_ENGINE" = "Ligero: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Medio: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Firme: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ligero: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Medio: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Fuerte: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Suave: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rígido: Taptic Engine";
+
+}

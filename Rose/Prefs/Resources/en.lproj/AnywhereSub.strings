@@ -1,0 +1,46 @@
+{
+
+  "ENABLE_ANYWHERE_SECTION" = "Enable Anywhere Section";
+  "ENABLE_SECTION" = "Enable Section";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback When..";
+
+  "KILLING_APP" = "Killing App";
+  "APP_SWITCHER_IS_USED" = "App Switcher Is Used";
+  "CALLING_SIRI" = "Calling Siri";
+  "TAKING_SCREENSHOT" = "Taking Screenshot";
+  "BEGIN_OR_END_REACHABILITY" = "Begin/End Reachability";
+  "USING_TEXT_SELECTION" = "Using Text Selection";
+  "ENTERING_POWER_DOWN_VIEW" = "Entering Power Down View";
+  "RESPRINING" = "Respringing";
+  "TYPING" = "Typing";
+  "ENTERING_HOMESCREEN" = "Entering Homescreen";
+  "ALERT_APPEARS" = "Alert Appears";
+  "ALERT_DISAPPEARS" = "Alert Disappears";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Custom Strength Settings";
+
+  "CUSTOM_KILLING_STRENGTH" = "Custom Killing Strength";
+  "CUSTOM_SWITCHER_STRENGTH" = "Custom Switcher Strength";
+  "CUSTOM_SIRI_STRENGTH" = "Custom Siri Strength";
+  "CUSTOM_SCREENSHOT_STRENGTH" = "Custom Screenshot Strength";
+  "CUSTOM_REACHABILITY_STRENGTH" = "Custom Reachability Strength";
+  "CUSTOM_TEXT_SELECTION_STRENGTH" = "Custom Text Selection Strength";
+  "CUSTOM_POWER_DOWN_VIEW_STRENGTH" = "Custom Power Down View Strength";
+  "CUSTOM_RESPRING_STRENGTH" = "Custom Respring Strength";
+  "CUSTOM_TYPING_STRENGTH" = "Custom Typing Strength";
+  "CUSTOM_ENTERING_HOMESCREEN_STRENGTH" = "Custom Entering Homescreen Strength";
+  "CUSTOM_ALERT_APPEARING_STRENGTH" = "Custom Alert Appearing Strength";
+  "CUSTOM_ALERT_DISAPPEARING_STRENGTH" = "Custom Alert Disappearing Strength";
+
+  "NONE" = "None";
+  "LIGHT_HAPTIC_ENGINE" = "Light: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Medium: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Heavy: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Light: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Medium: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Strong: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Soft: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rigid: Taptic Engine";
+
+}

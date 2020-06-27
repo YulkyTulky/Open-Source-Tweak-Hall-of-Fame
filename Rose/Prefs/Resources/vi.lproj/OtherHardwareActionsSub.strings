@@ -1,0 +1,28 @@
+{
+
+  "ENABLE_OTHER_HARDWARE_ACTION_SECTION" = "Bật hỗ trợ cho các thao tác phần cứng khác";
+  "ENABLE_SECTION" = "Bật phần này";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Phản hồi xúc giác khi..";
+
+  "DISPLAY_WAKES" = "Bật màn hình";
+  "CHARGER_PLUGGED_IN_OR_OUT" = "Cắm sạc vào/rút sạc ra";
+  "CONNECTING_BLUETOOTH_DEVICE_IN_SETTINGS" = "Kết nối thiết bị Bluetooth trong cài đặt";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Cài đặt tuỳ chỉnh cường độ";
+
+  "CUSTOM_WAKE_STRENGTH" = "Khi bật màn hình";
+  "CUSTOM_PLUGGED_STRENGTH" = "Khi cắm sạc vào/rút sạc ra";
+  "CUSTOM_BLUETOOTH_CONNECT_STRENGTH" = "Khi kết nối thiết bị Bluetooth trong cài đặt";
+
+  "NONE" = "Không";
+  "LIGHT_HAPTIC_ENGINE" = "Nhẹ: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Vừa: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Mạnh: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Nhẹ: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Vừa: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Mạnh: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Mềm mại: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rất mạnh: Taptic Engine";
+
+}

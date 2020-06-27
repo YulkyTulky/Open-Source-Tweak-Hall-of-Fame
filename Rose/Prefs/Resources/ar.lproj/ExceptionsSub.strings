@@ -1,0 +1,11 @@
+{
+
+  "ENABLE_EXCEPTIONS_SECTION" = "قسم تمكين الاستثناءات";
+  "ENABLE_SECTION" = "أقسام التفعيل";
+
+  "DISABLE_FEEDBACK_WHEN" = "تعطيل إهتزاز عند ..";
+
+  "LOW_POWER_MODE_IS_ON" = "عند تفعيل وضع طاقة منخفض";
+  "DND_IS_ACTIVE" = "عند تفعيل وضع عدم أزعاج";
+
+}

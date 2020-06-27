@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_APOLLO_SUPPORT" = "Bật hỗ trợ cho Apollo";
+  "APOLLO_SUPPORT" = "Hỗ trợ cho Apollo";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Phản hồi xúc giác khi..";
+
+  "TAPPING_THE_JUMP_BAR" = "Nhấn vào thanh Jump Bar";
+  "TAPPING_THE_FLOATING_BUTTON" = "Nhấn vào nút Floating";
+  "TAPPING_MOST_ELEMENTS" = "Nhấn vào hầu hết các yếu tố";
+  "TAPPING_UIBUTTON_ELEMENTS" = "Nhấn vào các yếu tố UIButton";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Cài đặt tuỳ chỉnh cường độ";
+
+  "CUSTOM_JUMP_BAR_STRENGTH" = "Khi nhấn vào thanh Jump Bar";
+  "CUSTOM_FLOATING_BUTTON_STRENGTH" = "Khi nhấn vào nút Floating";
+  "CUSTOM_CERTAIN_ELEMENTS_STRENGTH" = "Khi nhấn vào hầu hết các yếu tố";
+  "CUSTOM_UIBUTTON_STRENGTH" = "Khi nhấn vào các yếu tố UIButton";
+
+  "NONE" = "Không";
+  "LIGHT_HAPTIC_ENGINE" = "Nhẹ: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Vừa: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Mạnh: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Nhẹ: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Vừa: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Mạnh: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Mềm mại: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rất mạnh: Taptic Engine";
+
+}

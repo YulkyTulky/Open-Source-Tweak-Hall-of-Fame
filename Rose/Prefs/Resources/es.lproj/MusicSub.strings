@@ -1,0 +1,41 @@
+{
+
+  "ENABLE_MUSIC_SUPPORT" = "Activar en Música";
+  "MUSIC_SUPPORT" = "Soporte en Música";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback al...";
+
+  "TAPPING_MUSIC_CONTROL_BUTTONS" = "Tocar Botones de Control de Música";
+  "TAPPING_VOLUME_SLIDER" = "Tocar Ajuste de Volumen";
+  "TAPPING_MORE_BUTTON" = "Tocar Botón Más";
+  "TAPPING_TIME_SLIDER" = "Tocar Ajuste de Tiempo";
+  "TAPPING_SONG_CELL" = "Tocar Canción";
+  "TAPPING_LIBRARY_CELL" = "Tocar Librería";
+  "TAPPING_ALBUM_CELL" = "Tocar Albúm";
+  "TAPPING_AIRPLAY_BUTTON" = "Tocar Botón Airplay";
+  "TAPPING_LYRICS_QUEUE_PLAY_SKIP_PREVIOUS_BUTTON" = "Tocar Botón de Letra de Canción, En Cola, Reproducir, Siguiente, Anterior";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Personalizar Ajustes de Intensidad en...";
+
+  "CUSTOM_MUSIC_CONTROLS_STRENGTH" = "Tocar Botones de Control de Música";
+  "CUSTOM_VOLUME_SLIDER_STRENGTH" = "Tocar Ajuste de Volumen";
+  "CUSTOM_MORE_BUTTON_STRENGTH" = "Tocar Botón Más";
+  "CUSTOM_TIME_SLIDER_STRENGTH" = "Tocar Ajuste de Tiempo";
+  "CUSTOM_SONG_CELL_STRENGTH" = "Tocar Canción";
+  "CUSTOM_LIBRARY_CELL_STRENGTH" = "Tocar Librería";
+  "CUSTOM_ALBUM_CELL_STRENGTH" = "Tocar Albúm";
+  "CUSTOM_AIRPLAY_BUTTON_STRENGTH" = "Tocar Botón Airplay";
+  "CUSTOM_LYRICS_QUEUE_PLAY_SKIP_PREVIOUS_BUTTON_STRENGTH" = "Tocar Botón de Letra de Canción, En Cola, Reproducir, Siguiente, Anterior";
+
+  "NONE" = "Ninguno";
+  "LIGHT_HAPTIC_ENGINE" = "Ligero: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Medio: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Firme: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ligero: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Medio: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Fuerte: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Suave: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rígido: Taptic Engine";
+
+
+}

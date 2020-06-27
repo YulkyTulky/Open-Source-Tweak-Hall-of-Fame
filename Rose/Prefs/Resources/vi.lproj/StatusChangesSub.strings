@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_STATUS_CHANGES_SECTION" = "Bật hỗ trợ cho khu vực thanh trạng thái";
+  "ENABLE_SECTION" = "Bật phần này";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Phản hồi xúc giác khi..";
+
+  "UNLOCKED_OR_NC" = "Mở khoá/Trung tâm thông báo";
+  "LOCKED" = "Đã khóa";
+  "AUTHENTICATED_WITH_TOUCH_OR_FACEID" = "Xác thực bằng Touch/Face ID";
+  "CALLL_CONNECTS_OR_DISCONNECTS" = "Kết nối cuộc gọi/Ngắt kết nối";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Cài đặt tuỳ chỉnh cường độ";
+
+  "CUSTOM_UNLOCK_STRENGTH" = "Khi mở khoá";
+  "CUSTOM_LOCK_STRENGTH" = "Khi đã khóa";
+  "CUSTOM_AUTHETICATION_STRENGTH" = "Khi xác thực";
+  "CUSTOM_CALL_STRENGTH" = "Khi kết nối cuộc gọi/Ngắt kết nối";
+
+  "NONE" = "Không";
+  "LIGHT_HAPTIC_ENGINE" = "Nhẹ: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Vừa: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Mạnh: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Nhẹ: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Vừa: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Mạnh: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Mềm mại: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rất mạnh: Taptic Engine";
+
+}

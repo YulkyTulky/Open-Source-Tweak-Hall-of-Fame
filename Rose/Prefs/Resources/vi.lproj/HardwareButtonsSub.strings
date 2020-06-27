@@ -1,0 +1,29 @@
+{
+
+  "ENABLE_HARDWARE_BUTTONS_SECTION" = "Phần kích hoạt cho các nút cứng";
+  "ENABLE_SECTION" = "Bật phần này";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Phản hồi xúc giác khi..";
+
+  "VOLUME_CHANGED" = "Thay đổi âm lượng";
+  "PRESSING_ONLY_SLEEP_BUTTON" = "Chỉ nhấn vào nút nguồn";
+  "PRESSING_HOME_OR_SLEEP_BUTTON" = "Nhấn vào cả nút Home và nút nguồn";
+  "UNMUTING" = "Tắt tiếng";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Cài đặt tuỳ chỉnh cường độ";
+
+  "CUSTOM_VOLUME_STRENGTH" = "Khi thay đổi âm lượng";
+  "CUSTOM_SLEEP_BUTTON_STRENGTH" = "Khi chỉ nhấn vào nút nguồn";
+  "CUSTOM_RINGER_STRENGTH" = "Khi tắt tiếng";
+
+  "NONE" = "Không";
+  "LIGHT_HAPTIC_ENGINE" = "Nhẹ: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Vừa: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Mạnh: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Nhẹ: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Vừa: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Mạnh: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Mềm mại: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rất mạnh: Taptic Engine";
+
+}

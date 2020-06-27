@@ -1,0 +1,32 @@
+{
+
+  "ENABLE_TWITTER_SUPPORT" = "Twitter 지원 사용";
+  "TWITTER_SUPPORT" = "Twitter 지원";
+
+  "HAPTIC_FEEDBACK_WHEN" = "진동 피드백 작동 조건";
+
+  "USING_TABBAR" = "Tab Bar 사용";
+  "TAPPING_ON_A_TWEET" = "트윗 터치";
+  "TAPPING_A_DM_CHAT" = "DM Chat 터치";
+  "TAPPING_ON_A_NOTIFICATION" = "알림 터치";
+  "USING_THE_FLOATING_TWEET_BUTTON" = "Floating Tweet 버튼 사용";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "맞춤 강도 설정";
+
+  "CUSTOM_TABBAR_STRENGTH" = "Tab Bar 강도";
+  "CUSTOM_TWEET_STRENGTH" = "Tweet 강도";
+  "CUSTOM_DM_STRENGTH" = "DM 강도";
+  "CUSTOM_NOTIFICATION_STRENGTH" = "알림 강도";
+  "CUSTOM_FLOATING_TWEET_BUTTON_STRENGTH" = "Floating Tweet 버튼 강도";
+
+  "NONE" = "없음";
+  "LIGHT_HAPTIC_ENGINE" = "가벼운: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "중간: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "무거운: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "가벼운: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "중간: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "무거운: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "약한: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "단단한: Taptic Engine";
+
+}

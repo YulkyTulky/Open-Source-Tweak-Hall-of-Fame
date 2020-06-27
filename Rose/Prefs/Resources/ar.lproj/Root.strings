@@ -1,0 +1,77 @@
+{
+
+  "ROSE" = "Rose";
+
+  "LIGHT" = "خفيف";
+  "MEDIUM" = "متوسط";
+  "HEAVY" = "قوي";
+  "SOFT" = "ناعم";
+  "RIGID" = "جامد";
+  "STRONG" = "قوي";
+  "DEFAULT" = "إفتراضي";
+  "CUSTOM" = "مخصص";
+
+  "TAPTIC_ENGINE_STRENGTH" = "قوة إهتزاز هابتك";
+  "IPHONE_7_OR_7PLUS_AND_UP" = "أيفون ٧/\٧+ وما فوق";
+  "USE_TAPTIC_ENGINE" = "أستخدام إهتزاز هابتك";
+
+  "HAPTIC_ENGINE_STRENGTH" = "قوة محرك إهتزاز";
+  "IPHONE_6S_OR_6SPLUS" = "أيفون ٦/\٦+ وما دون";
+  "USE_HAPTIC_ENGINE" = "أستحدام محرك إهتزاز";
+
+  "LEGACY_SUPPORT" = "دعم قديم";
+  "IPHONE_SE_OR_6_AND_SO_FAR" = "أيفون SE / 6 ..";
+  "USE_LEGACY_ENGINE" = "أستخدام محرك قديم";
+  "CUSTOM_LEGACY_SETTINGS" = "إعدادات قديمة مخصصة";
+  
+  "HAPTIC_FEEDBACK_OPTIONS" = "خيارات إهتزاز هابتك";
+  
+  "HOMESCREEN" = "شاشة رئيسية";
+  "LOCKSCREEN" = "شاشة القفل";
+  "ANYWHERE" = "كل مكان";
+  "HARDWARE_BUTTONS" = "أزرار الجهاز";
+  "CONTROL_CENTER" = "مركز تحكم";
+  "STATUS_CHANGES" = "تغييرات الحالة";
+  "OTHER_HARDWARE_ACTIONS" = "إجراءات أخرى";
+  "SYSTEM_WIDE" = "نظام موسع";
+  "APPLICATIONS" = "تطبيقات";
+  "EXCEPTIONS" = "إستثناءات";
+  "ADDITIONALS" = "إضافات";
+
+  "HAPTIC_DELAY_IN_SECONDS" = "تأخر هابتك - ثواني";
+  "ENABLE_DELAY" = "تفعيل تأخر";
+
+  "OTHER_OPTIONS" = "أخرى";
+  "RESPRING" = "ريسبرنج (تشغبل سريع)";
+  "RESET_PREFERENCES" = "إعادة ضبط";
+  "SHOW_SETUP_AGAIN" = "عرض الإعدادات";
+  
+  "SENDING_LOVE_TO" = "أرسل حبك";
+  "THANKS_KRITANTA_FOR_THE_PRETTY_TWITTER_CELLS" = "شكرا kritanta لدعم تويتر جميلة ";
+
+  "CONTRIBUTORS_CREDITS" = "الاختبار والترجمة";
+  "CONTRIBUTORS" = "مساهمون";
+  "HELP_TRANSLATING_ROSE" = "مساعدة في ترجمة Rose";
+
+  "GIVE_THESE_A_LOOK" = "ألقي نظرة هنا";
+  "LUNE_DESCRIPTION" = "دع أيقونة القمر تظهر أثناء وجودها في DND";
+  "AESTEA_DESCRIPTION" = "جرب Aestea ستعجبك";
+  "BUTTERFLY_DESCRIPTION" = "Text Selectionولكن بـ ألوان Text Selection";
+  
+  "SUPPORT_ME" = "أدعمني";
+  "ROSE_BY_LITTEN_
+ARTWORKS_BY_TAKI" = "Rose By Litten
+Artworks By taki";
+
+  "LITTLE_DONATION_🌺" = "دعم صغير 🌺";
+  "APPRECIATED_💘" = "محل تقدير 💘";
+  "FEATURE_REQUEST?_✨" = "طلب إضافة? ✨";
+  "SEND_ME_AN_EMAIL_WITH_YOUR_REQUEST" = "أرسل إيميل مع طلب";
+  "SOURCE_CODE_🌙" = "شفرة الأداة 🌙";
+  "ITS_ON_MY_GITHUB" = "على منصة Github";
+  "FOUND_A_BUG?_🌧" = "لديك مشكلة? 🌧";
+  "LEAVE_A_BUG_REPORT_HERE" = "أترك تقرير هنا";
+  
+  "MADE_WITH_💙" = "💙 عملناها مع";
+
+}

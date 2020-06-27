@@ -1,0 +1,34 @@
+{
+
+  "ENABLE_SILEO_SUPPORT" = "Sileoの設定を有効化";
+  "SILEO_SUPPORT" = "有効化";
+
+  "HAPTIC_FEEDBACK_WHEN" = "この時Haptic触感を起こします！";
+
+  "TAPPING_SOURCE_CELL" = "リポジトリの項目をタップした時";
+  "TAPPING_PACKAGE_CELL" = "パッケージの項目をタップした時";
+  "TAPPING_TABLE_VIEW_CELL" = "Table Viewの項目をタップした時";
+  "TAPPING_FEATURED_BANNER" = "おすすめをタップした時";
+  "TAPPING_DOWNLOAD_CONFIRM_BUTTON" = "ダウンロード確認ボタンを押した時";
+  "TAPPING_GET_BUTTON" = "入手ボタンを押した時";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "強さのカスタム設定";
+
+  "CUSTOM_SOURCE_CELL_STRENGTH" = "リポジトリの項目をタップした時の強さ";
+  "CUSTOM_PACKAGE_CELL_STRENGTH" = "パッケージの項目をタップした時の強さ";
+  "CUSTOM_TABLE_VIEW_CELL_STRENGTH" = "Table Viewの項目をタップした時の強さ";
+  "CUSTOM_FEATURED_BANNER_STRENGTH" = "おすすめをタップした時の強さ";
+  "CUSTOM_DOWNLOAD_CONFIRM_BUTTON_STRENGTH" = "ダウンロード確認ボタンを押した時の強さ";
+  "CUSTOM_GET_BUTTON_STRENGTH" = "入手ボタンを押した時の強さ";
+
+  "NONE" = "無し";
+  "LIGHT_HAPTIC_ENGINE" = "軽: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "中: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "重: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "弱: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "中: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "強: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "軟: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "硬: Taptic Engine";
+
+}

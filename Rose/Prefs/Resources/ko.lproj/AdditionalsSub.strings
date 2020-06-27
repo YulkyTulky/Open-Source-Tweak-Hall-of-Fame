@@ -1,0 +1,10 @@
+{
+
+  "ENABLE_ADDITIONALS_SECTION" = "추가적인 섹션 사용";
+  "ENABLE_SECTION" = "섹션 사용";
+
+  "HAPTIC_ANIMATIONS" = "진동 애니메이션 - Taptic Engine, ios 13 전용";
+
+  "HAPTIC_LOCK_ANIMATION" = "잠금 진동 애니메이션";
+
+}

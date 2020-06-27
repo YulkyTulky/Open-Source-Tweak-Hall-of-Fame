@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_PHONE_SUPPORT" = "Enable Phone Support";
+  "PHONE_SUPPORT" = "Phone Support";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback When..";
+
+  "TAPPING_DIALER_NUMBER_PAD_BUTTON" = "Tapping Dialer Number Pad Button";
+  "TAPPING_CONTACTS_CELL" = "Tapping Contacts Cell";
+  "TAPPING_DIALER_DELETE_BUTTON" = "Tapping Dialer Delete Button";
+  "TAPPING_DIALER_CALL_BUTTON" = "Tapping Dialer Call Button";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Custom Strength Settings";
+
+  "CUSTOM_DIALER_NUMBER_PAD_STRENGTH" = "Custom Dialer Number Pad Strength";
+  "CUSTOM_CONTACT_CELL_STRENGTH" = "Custom Contacts Cell Strength";
+  "CUSTOM_DIALER_DELETE_BUTTON_STRENGTH" = "Custom Dialer Delete Button Strength";
+  "CUSTOM_DIALER_CALL_BUTTON_STRENGTH" = "Custom Dialer Call Button Strength";
+
+  "NONE" = "None";
+  "LIGHT_HAPTIC_ENGINE" = "Light: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Medium: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Heavy: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Light: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Medium: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Strong: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Soft: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rigid: Taptic Engine";
+
+}

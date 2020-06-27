@@ -1,0 +1,32 @@
+{
+
+  "ENABLE_INSTAGRAM_SUPPORT" = "Bật hỗ trợ cho Instagram";
+  "INSTAGRAM_SUPPORT" = "Hỗ trợ cho Instagram";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Phản hồi xúc giác khi..";
+
+  "TAPPING_LIKE_BUTTON" = "Nhấn vào nút Like";
+  "DOUBLE_TAPPING_TO_LIKE" = "Nhấn hai lần để Like";
+  "TAPPING_COMMENT_BUTTON" = "Nhấn vào nút Bình luận";
+  "TAPPING_SAVE_BUTTON" = "Nhấn vào nút Lưu";
+  "TAPPING_SEND_BUTTON" = "Nhấn vào nút Gửi";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Cài đặt tuỳ chỉnh cường độ";
+
+  "CUSTOM_LIKE_BUTTON_STRENGTH" = "Khi nhấn vào nút Like";
+  "CUSTOM_DOUBLE_TAP_TO_LIKE_STRENGTH" = "Khi nhấn hai lần để Like";
+  "CUSTOM_COMMENT_BUTTON_STRENGTH" = "Khi nhấn vào nút Bình luận";
+  "CUSTOM_SAVE_BUTTON_STRENGTH" = "Khi nhấn vào nút Lưu";
+  "CUSTOM_SEND_BUTTON_STRENGTH" = "Khi nhấn vào nút Gửi";
+
+  "NONE" = "Không";
+  "LIGHT_HAPTIC_ENGINE" = "Nhẹ: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Vừa: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Mạnh: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Nhẹ: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Vừa: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Mạnh: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Mềm mại: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rất mạnh: Taptic Engine";
+
+}

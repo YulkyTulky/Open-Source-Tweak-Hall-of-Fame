@@ -1,0 +1,24 @@
+{
+
+  "ENABLE_SAFARI_SUPPORT" = "Safariの設定を有効化";
+  "SAFARI_SUPPORT" = "有効化";
+
+  "HAPTIC_FEEDBACK_WHEN" = "この時Haptic触感を起こします！";
+
+  "TAPPING_THE_URL_BAR" = "URLバーをタップした時";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "強さのカスタム設定";
+
+  "CUSTOM_URL_STRENGTH" = "URLバーをタップした時の強さ";
+
+  "NONE" = "無し";
+  "LIGHT_HAPTIC_ENGINE" = "軽: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "中: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "重: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "弱: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "中: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "強: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "軟: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "硬: Taptic Engine";
+
+}

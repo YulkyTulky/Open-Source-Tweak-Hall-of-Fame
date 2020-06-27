@@ -1,0 +1,32 @@
+{
+
+  "ENABLE_TWITTER_SUPPORT" = "تفعيل في Twitter";
+  "TWITTER_SUPPORT" = "دعم Twitter";
+
+  "HAPTIC_FEEDBACK_WHEN" = "تمكين إهتزاز عند ..";
+
+  "USING_TABBAR" = "شريط الخيارات";
+  "TAPPING_ON_A_TWEET" = "فتح تغريدة";
+  "TAPPING_A_DM_CHAT" = "فتح رسائل";
+  "TAPPING_ON_A_NOTIFICATION" = "فتح الإشعارات";
+  "USING_THE_FLOATING_TWEET_BUTTON" = "أستحدام زر تغريد عائم";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "إعدادات إهتزاز مخصصة";
+
+  "CUSTOM_TABBAR_STRENGTH" = "شريط الخيارات";
+  "CUSTOM_TWEET_STRENGTH" = "فتح تغريدة";
+  "CUSTOM_DM_STRENGTH" = "فتح رسائل";
+  "CUSTOM_NOTIFICATION_STRENGTH" = "فتح الإشعارات";
+  "CUSTOM_FLOATING_TWEET_BUTTON_STRENGTH" = "أستحدام زر تغريد عائم";
+
+  "NONE" = "لاشئ";
+  "LIGHT_HAPTIC_ENGINE" = "إهتزاز هابتك خفيف";
+  "MEDIUM_HAPTIC_ENGINE" = "إهتزازهابتك متوسط";
+  "HEAVY_HAPTIC_ENGINE" = "إهتزاز هابتك قوي";
+  "LIGHT_TAPTIC_ENGINE" = "محرك إهتزاز خفيف";
+  "MEDIUM_TAPTIC_ENGINE" = "محرك إهتزاز متوسط";
+  "STRONG_TAPTIC_ENGINE" = "محرك إهتزاز قوي";
+  "SOFT_TAPTIC_ENGINE" = "إهتزاز هابتك ناعم";
+  "RIGID_TAPTIC_ENGINE" = "إهتزاز هابتك جامد";
+
+}

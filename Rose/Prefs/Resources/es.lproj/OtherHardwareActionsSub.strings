@@ -1,0 +1,28 @@
+{
+
+  "ENABLE_OTHER_HARDWARE_ACTION_SECTION" = "Activar Otras Acciones de Hardware";
+  "ENABLE_SECTION" = "Activar Sección";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback al...";
+
+  "DISPLAY_WAKES" = "Encender Pantalla";
+  "CHARGER_PLUGGED_IN_OR_OUT" = "Cargador Conectado/Desconectado";
+  "CONNECTING_BLUETOOTH_DEVICE_IN_SETTINGS" = "Conectar Dispositivo Bluetooth en Ajustes";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Personalizar Ajustes de Intensidad en...";
+
+  "CUSTOM_WAKE_STRENGTH" = "Encender Pantalla";
+  "CUSTOM_PLUGGED_STRENGTH" = "Cargador Conectado/Desconectado";
+  "CUSTOM_BLUETOOTH_CONNECT_STRENGTH" = "Conectar Dispositivo Bluetooth en Ajustes";
+
+  "NONE" = "Ninguno";
+  "LIGHT_HAPTIC_ENGINE" = "Ligero: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Medio: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Firme: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ligero: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Medio: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Fuerte: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Suave: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rígido: Taptic Engine";
+
+}

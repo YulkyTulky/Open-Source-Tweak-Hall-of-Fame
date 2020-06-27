@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_STATUS_CHANGES_SECTION" = "상태 변동 섹션 사용";
+  "ENABLE_SECTION" = "섹션 사용";
+
+  "HAPTIC_FEEDBACK_WHEN" = "진동 피드백 작동 조건";
+
+  "UNLOCKED_OR_NC" = "잠금해제/NC";
+  "LOCKED" = "잠금";
+  "AUTHENTICATED_WITH_TOUCH_OR_FACEID" = "Touch/FaceID로 인증";
+  "CALLL_CONNECTS_OR_DISCONNECTS" = "통화 시작/종료";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "맞춤 강도 설정";
+
+  "CUSTOM_UNLOCK_STRENGTH" = "잠금해제 강도";
+  "CUSTOM_LOCK_STRENGTH" = "잠금 강도";
+  "CUSTOM_AUTHETICATION_STRENGTH" = "인증 강도";
+  "CUSTOM_CALL_STRENGTH" = "통화 강도";
+
+  "NONE" = "없음";
+  "LIGHT_HAPTIC_ENGINE" = "가벼운: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "중간: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "무거운: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "가벼운: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "중간: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "무거운: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "약한: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "단단한: Taptic Engine";
+
+}

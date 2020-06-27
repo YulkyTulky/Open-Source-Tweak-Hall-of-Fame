@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_APOLLO_SUPPORT" = "Apollo 지원 사용";
+  "APOLLO_SUPPORT" = "Apollo 지원";
+
+  "HAPTIC_FEEDBACK_WHEN" = "진동 피드백 작동 조건";
+
+  "TAPPING_THE_JUMP_BAR" = "Jump Bar 터치";
+  "TAPPING_THE_FLOATING_BUTTON" = "Floating Button 터치";
+  "TAPPING_MOST_ELEMENTS" = "Most Elements 터치";
+  "TAPPING_UIBUTTON_ELEMENTS" = "UI Button Elements 터치";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "맞춤 강도 설정";
+
+  "CUSTOM_JUMP_BAR_STRENGTH" = "Jump Bar 강도";
+  "CUSTOM_FLOATING_BUTTON_STRENGTH" = "Floating Button 강도";
+  "CUSTOM_CERTAIN_ELEMENTS_STRENGTH" = "Certain Elements 강도";
+  "CUSTOM_UIBUTTON_STRENGTH" = "UI Button 강도";
+
+  "NONE" = "없음";
+  "LIGHT_HAPTIC_ENGINE" = "가벼운: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "중간: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "무거운: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "가벼운: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "중간: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "무거운: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "약한: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "단단한: Taptic Engine";
+
+}

@@ -1,0 +1,40 @@
+{
+
+  "ENABLE_MUSIC_SUPPORT" = "Enable Music Support";
+  "MUSIC_SUPPORT" = "Music Support";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback When..";
+
+  "TAPPING_MUSIC_CONTROL_BUTTONS" = "Tapping Music Control Buttons";
+  "TAPPING_VOLUME_SLIDER" = "Tapping Volume Slider";
+  "TAPPING_MORE_BUTTON" = "Tapping More Button";
+  "TAPPING_TIME_SLIDER" = "Tapping Time Slider";
+  "TAPPING_SONG_CELL" = "Tapping Song Cell";
+  "TAPPING_LIBRARY_CELL" = "Tapping Library Cell";
+  "TAPPING_ALBUM_CELL" = "Tapping Album Cell";
+  "TAPPING_AIRPLAY_BUTTON" = "Tapping Airplay Button";
+  "TAPPING_LYRICS_QUEUE_PLAY_SKIP_PREVIOUS_BUTTON" = "Tapping Lyrics, Queue, Play, Skip, Previous Button";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Custom Strength Settings";
+
+  "CUSTOM_MUSIC_CONTROLS_STRENGTH" = "Custom Music Controls Strength";
+  "CUSTOM_VOLUME_SLIDER_STRENGTH" = "Custom Volume Slider Strength";
+  "CUSTOM_MORE_BUTTON_STRENGTH" = "Custom More Button Strength";
+  "CUSTOM_TIME_SLIDER_STRENGTH" = "Custom Time Slider Strength";
+  "CUSTOM_SONG_CELL_STRENGTH" = "Custom Song Cell Strength";
+  "CUSTOM_LIBRARY_CELL_STRENGTH" = "Custom Library Cell Strength";
+  "CUSTOM_ALBUM_CELL_STRENGTH" = "Custom Album Cell Strength";
+  "CUSTOM_AIRPLAY_BUTTON_STRENGTH" = "Custom Airplay Button Strength";
+  "CUSTOM_LYRICS_QUEUE_PLAY_SKIP_PREVIOUS_BUTTON_STRENGTH" = "Custom Lyrics, Queue, Play, Skip, Previous Button Strength";
+
+  "NONE" = "None";
+  "LIGHT_HAPTIC_ENGINE" = "Light: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Medium: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Heavy: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Light: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Medium: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Strong: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Soft: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rigid: Taptic Engine";
+
+}

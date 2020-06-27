@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_STATUS_CHANGES_SECTION" = "خيارات أضافية";
+  "ENABLE_SECTION" = "أقسام التفعيل";
+
+  "HAPTIC_FEEDBACK_WHEN" = "تمكين إهتزاز عند ..";
+
+  "UNLOCKED_OR_NC" = "فتح قفل, مركز إشعارات";
+  "LOCKED" = "قفل الشاشة";
+  "AUTHENTICATED_WITH_TOUCH_OR_FACEID" = "بصمة أصبع و وجه";
+  "CALLL_CONNECTS_OR_DISCONNECTS" = "توصيل وقطع أتصال";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "إعدادات إهتزاز مخصصة";
+
+  "CUSTOM_UNLOCK_STRENGTH" = "فتح قفل, مركز إشعارات";
+  "CUSTOM_LOCK_STRENGTH" = "قفل الشاشة";
+  "CUSTOM_AUTHETICATION_STRENGTH" = "بصمة أصبع و وجه";
+  "CUSTOM_CALL_STRENGTH" = "توصيل وقطع أتصال";
+
+  "NONE" = "لاشئ";
+  "LIGHT_HAPTIC_ENGINE" = "إهتزاز هابتك خفيف";
+  "MEDIUM_HAPTIC_ENGINE" = "إهتزازهابتك متوسط";
+  "HEAVY_HAPTIC_ENGINE" = "إهتزاز هابتك قوي";
+  "LIGHT_TAPTIC_ENGINE" = "محرك إهتزاز خفيف";
+  "MEDIUM_TAPTIC_ENGINE" = "محرك إهتزاز متوسط";
+  "STRONG_TAPTIC_ENGINE" = "محرك إهتزاز قوي";
+  "SOFT_TAPTIC_ENGINE" = "إهتزاز هابتك ناعم";
+  "RIGID_TAPTIC_ENGINE" = "إهتزاز هابتك جامد";
+
+}

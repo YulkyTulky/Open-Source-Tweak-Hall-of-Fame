@@ -1,0 +1,44 @@
+{
+
+  "ENABLE_SPOTIFY_SUPPORT" = "Bật hỗ trợ cho Spotify";
+  "SPOTIFY_SUPPORT" = "Hỗ trợ cho Spotify";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Phản hồi xúc giác khi..";
+
+  "RESUMING_OR_PAUSING_SONG" = "Tiếp tục/dừng một bài hát";
+  "MINI_PLAYER_RESUMING_OR_PAUSING_SONG" = "Tiếp tục/dừng một bài hát trên thanh player nhỏ";
+  "GOING_TO_PREVIOUS_SONG" = "Quay lại bài trước đó";
+  "SKIPPING_SONG" = "Bỏ qua bài hát";
+  "TAPPING_REPEAT_BUTTON" = "Nhấn vào nút lặp lại";
+  "TAPPING_SHUFFLE_BUTTON" = "Nhấn vào nút Shuffle";
+  "TAPPING_QUEUE_BUTTON" = "Nhấn vào nút xếp hàng";
+  "USING_TIME_SLIDER" = "Sử dụng thanh kéo thời gian";
+  "TAPPING_LIKE_BUTTON" = "Nhấn vào nút thích";
+  "TAPPING_DEVICES_BUTTON" = "Nhấn vào nút thiết bị";
+  "TAPPING_SONG_LABEL" = "Nhấn vào tên bài hát";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Custom Strength Settings";
+
+  "CUSTOM_PLAY_BUTTON_STRENGTH" = "Khi tiếp tục/dừng một bài hát";
+  "CUSTOM_MINI_PLAYER_PLAY_BUTTON_STRENGTH" = "Khi tiếp tục/dừng một bài hát trên thanh player nhỏ";
+  "CUSTOM_PREVIOUS_TRACK_BUTTON_STRENGTH" = "Khi quay lại bài trước đó";
+  "CUSTOM_SKIP_BUTTON_STRENGTH" = "Khi bỏ qua bài hát";
+  "CUSTOM_REPEAT_BUTTON_STRENGTH" = "Khi nhấn vào nút lặp lại";
+  "CUSTOM_SHUFFLE_BUTTON_STRENGTH" = "Khi nhấn vào nút Shuffle";
+  "CUSTOM_QUEUE_BUTTON_STRENGTH" = "Khi nhấn vào nút xếp hàng";
+  "CUSTOM_TIME_SLIDER_STRENGTH" = "Khi sử dụng thanh kéo thời gian";
+  "CUSTOM_LIKE_BUTTON_STRENGTH" = "Khi nhấn vào nút thích";
+  "CUSTOM_DEVICES_BUTTON_STRENGTH" = "Khi nhấn vào nút thiết bị";
+  "CUSTOM_LABEL_STRENGTH" = "Khi nhấn vào tên bài hát";
+
+  "NONE" = "Không";
+  "LIGHT_HAPTIC_ENGINE" = "Nhẹ: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Vừa: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Mạnh: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Nhẹ: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Vừa: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Mạnh: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Mềm mại: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rất mạnh: Taptic Engine";
+
+}

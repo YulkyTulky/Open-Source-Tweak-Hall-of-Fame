@@ -1,0 +1,30 @@
+{
+
+  "ENABLE_PHONE_SUPPORT" = "Bật hỗ trợ cho ứng dụng Điện thoại";
+  "PHONE_SUPPORT" = "Hỗ trợ cho ứng dụng Điện thoại";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Phản hồi xúc giác khi..";
+
+  "TAPPING_DIALER_NUMBER_PAD_BUTTON" = "Nhấn vào các phím số";
+  "TAPPING_CONTACTS_CELL" = "Nhấn vào một danh bạ nào đó";
+  "TAPPING_DIALER_DELETE_BUTTON" = "Nhấn vào nút xoá khi quay số";
+  "TAPPING_DIALER_CALL_BUTTON" = "Nhấn vào nút gọi khi quay số";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Custom Strength Settings";
+
+  "CUSTOM_DIALER_NUMBER_PAD_STRENGTH" = "Khi nhấn vào các phím số";
+  "CUSTOM_CONTACT_CELL_STRENGTH" = "Khi nhấn vào một danh bạ nào đó";
+  "CUSTOM_DIALER_DELETE_BUTTON_STRENGTH" = "Khi nhấn vào nút xoá khi quay số";
+  "CUSTOM_DIALER_CALL_BUTTON_STRENGTH" = "Khi nhấn vào nút gọi khi quay số";
+
+  "NONE" = "Không";
+  "LIGHT_HAPTIC_ENGINE" = "Nhẹ: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Vừa: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Mạnh: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Nhẹ: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Vừa: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Mạnh: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Mềm mại: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rất mạnh: Taptic Engine";
+  
+}

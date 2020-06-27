@@ -1,0 +1,24 @@
+{
+
+  "ENABLE_TIKTOK_SUPPORT" = "Activar en TikTok";
+  "TIKTOK_SUPPORT" = "Soporte en TikTok";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback al...";
+
+  "TAPPING_LIKE_COMMENT_OR_SHARE" = "Tocar Like, Comentario o Compartir";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Personalizar Ajustes de Intensidad en...";
+
+  "CUSTOM_LIKE_COMMENT_SHARE_BUTTON_STRENGTH" = "Tocar Like, Comentario o Compartir";
+
+  "NONE" = "Ninguno";
+  "LIGHT_HAPTIC_ENGINE" = "Ligero: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Medio: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Firme: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ligero: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Medio: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Fuerte: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Suave: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rígido: Taptic Engine";
+
+}

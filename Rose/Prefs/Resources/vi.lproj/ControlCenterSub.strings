@@ -1,0 +1,28 @@
+{
+
+  "ENABLE_CONTROL_CENTER_SECTION" = "Bật hỗ trợ cho khu vực Control Center";
+  "ENABLE_SECTION" = "Bật phần này";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Phản hồi xúc giác khi..";
+
+  "TOGGLING_CONNECTIVITY_TOGGLE" = "Chuyển đổi kết nối";
+  "OPENING_CONTROL_CENTER" = "Mở Control Center";
+  "TOGGLING_CC_MODULE" = "Nhấn vào các mô-đun trong CC (Thử nghiệm)";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Cài đặt tuỳ chỉnh cường độ";
+
+  "CUSTOM_CC_TOGGLE_STRENGTH" = "Khi chuyển đổi kết nối";
+  "CUSTOM_OPEN_CONTROL_CENTER_STRENGTH" = "Khi mở Control Center";
+  "CUSTOM_CC_MODULE_STRENGTH" = "Khi nhấn vào các mô-đun trong CC";
+
+  "NONE" = "Không";
+  "LIGHT_HAPTIC_ENGINE" = "Nhẹ: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Vừa: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Mạnh: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Nhẹ: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Vừa: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Mạnh: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Mềm mại: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rất mạnh: Taptic Engine";
+
+}

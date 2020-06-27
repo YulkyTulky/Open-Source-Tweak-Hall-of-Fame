@@ -1,0 +1,24 @@
+{
+
+  "ENABLE_TIKTOK_SUPPORT" = "Bật hỗ trợ cho TikTok";
+  "TIKTOK_SUPPORT" = "Hỗ trợ cho TikTok";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Phản hồi xúc giác khi..";
+
+  "TAPPING_LIKE_COMMENT_OR_SHARE" = "Nhấn Thích, Bình luận hoặc Chia sẻ";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Cài đặt tuỳ chỉnh cường độ";
+
+  "CUSTOM_LIKE_COMMENT_SHARE_BUTTON_STRENGTH" = "Khi nhấn Thích, Bình luận hoặc Chia sẻ";
+
+  "NONE" = "Không";
+  "LIGHT_HAPTIC_ENGINE" = "Nhẹ: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Vừa: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Mạnh: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Nhẹ: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Vừa: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Mạnh: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Mềm mại: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rất mạnh: Taptic Engine";
+
+}

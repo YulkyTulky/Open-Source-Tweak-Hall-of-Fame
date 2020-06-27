@@ -1,0 +1,34 @@
+{
+
+  "ENABLE_SILEO_SUPPORT" = "Activar en Sileo";
+  "SILEO_SUPPORT" = "Soporte en Sileo";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Haptic Feedback al...";
+
+  "TAPPING_SOURCE_CELL" = "Tocar Icono de Fuente";
+  "TAPPING_PACKAGE_CELL" = "Tocar Icono de Paquete";
+  "TAPPING_TABLE_VIEW_CELL" = "Tocar Vista de Tabla";
+  "TAPPING_FEATURED_BANNER" = "Tocar Icono de Destacado";
+  "TAPPING_DOWNLOAD_CONFIRM_BUTTON" = "Tocar Botón de Confirmación de Descarga";
+  "TAPPING_GET_BUTTON" = "Tocar Botón Conseguir";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Personalizar Ajustes de Intensidad en...";
+
+  "CUSTOM_SOURCE_CELL_STRENGTH" = "Tocar Icono de Fuente";
+  "CUSTOM_PACKAGE_CELL_STRENGTH" = "Tocar Icono de Paquete";
+  "CUSTOM_TABLE_VIEW_CELL_STRENGTH" = "Tocar Vista de Tabla";
+  "CUSTOM_FEATURED_BANNER_STRENGTH" = "Tocar Icono de Destacado";
+  "CUSTOM_DOWNLOAD_CONFIRM_BUTTON_STRENGTH" = "Tocar Botón de Confirmación de Descarga";
+  "CUSTOM_GET_BUTTON_STRENGTH" = "Tocar Botón Conseguir";
+
+  "NONE" = "Ninguno";
+  "LIGHT_HAPTIC_ENGINE" = "Ligero: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Medio: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Firme: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Ligero: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Medio: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Fuerte: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Suave: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rígido: Taptic Engine";
+
+}

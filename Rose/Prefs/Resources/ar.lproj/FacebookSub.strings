@@ -1,0 +1,28 @@
+{
+
+  "ENABLE_FACEBOOK_SUPPORT" = "تفعيل في Facebook";
+  "FACEBOOK_SUPPORT" = "دعم Facebook";
+
+  "HAPTIC_FEEDBACK_WHEN" = "تمكين إهتزاز عند ..";
+
+  "USING_THE_TABBAR" = "ضغط مفاتيح";
+  "TAPPING_QUICK_ACCESS_BUTTONS" = "مفاتيح وصول سريع";
+  "TAPPING_NAVIGATION_BAR_BUTTONS" = "مفاتيح إشارات";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "إعدادات إهتزاز مخصصة";
+
+  "CUSTOM_TABBAR_STRENGTH" = "ضغط مفاتيح";
+  "CUSTOM_QUICK_ACCESS_BUTTONS_STRENGTH" = "مفاتيح وصول سريع";
+  "CUSTOM_NAVIGATION_BAR_BUTTONS_STRENGTH" = "مفاتيح إشارات";
+
+  "NONE" = "لاشئ";
+  "LIGHT_HAPTIC_ENGINE" = "إهتزاز هابتك خفيف";
+  "MEDIUM_HAPTIC_ENGINE" = "إهتزازهابتك متوسط";
+  "HEAVY_HAPTIC_ENGINE" = "إهتزاز هابتك قوي";
+  "LIGHT_TAPTIC_ENGINE" = "محرك إهتزاز خفيف";
+  "MEDIUM_TAPTIC_ENGINE" = "محرك إهتزاز متوسط";
+  "STRONG_TAPTIC_ENGINE" = "محرك إهتزاز قوي";
+  "SOFT_TAPTIC_ENGINE" = "إهتزاز هابتك ناعم";
+  "RIGID_TAPTIC_ENGINE" = "إهتزاز هابتك جامد";
+
+}

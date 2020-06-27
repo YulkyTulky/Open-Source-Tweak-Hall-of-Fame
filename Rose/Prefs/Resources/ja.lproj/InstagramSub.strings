@@ -1,0 +1,32 @@
+{
+
+  "ENABLE_INSTAGRAM_SUPPORT" = "インスタグラムの設定を有効化";
+  "INSTAGRAM_SUPPORT" = "有効化";
+
+  "HAPTIC_FEEDBACK_WHEN" = "この時Haptic触感を起こします！";
+
+  "TAPPING_LIKE_BUTTON" = "いいね！を押した時";
+  "DOUBLE_TAPPING_TO_LIKE" = "いいね！をダブルタップした時";
+  "TAPPING_COMMENT_BUTTON" = "コメントボタンを押した時";
+  "TAPPING_SAVE_BUTTON" = "保存ボタンを押した時";
+  "TAPPING_SEND_BUTTON" = "共有ボタンを押した時";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "強さのカスタム設定";
+
+  "CUSTOM_LIKE_BUTTON_STRENGTH" = "いいね！を押した時の強さ";
+  "CUSTOM_DOUBLE_TAP_TO_LIKE_STRENGTH" = "いいね！をダブルタップした時の強さ";
+  "CUSTOM_COMMENT_BUTTON_STRENGTH" = "コメントボタンを押した時の強さ";
+  "CUSTOM_SAVE_BUTTON_STRENGTH" = "保存ボタンを押した時の強さ";
+  "CUSTOM_SEND_BUTTON_STRENGTH" = "投稿ボタンを押した時の強さ";
+
+  "NONE" = "無し";
+  "LIGHT_HAPTIC_ENGINE" = "軽: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "中: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "重: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "弱: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "中: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "強: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "軟: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "硬: Taptic Engine";
+
+}

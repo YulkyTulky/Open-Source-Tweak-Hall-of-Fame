@@ -1,0 +1,10 @@
+//
+// Prefix header for all source files of the 'WebGL' target in the 'WebGL' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+
+    // Logging
+    #define XENlog(args...) XenHTMLWebGLLog(__FILE__,__LINE__,__PRETTY_FUNCTION__,args);
+#endif

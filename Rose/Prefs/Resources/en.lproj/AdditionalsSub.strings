@@ -1,0 +1,10 @@
+{
+
+  "ENABLE_ADDITIONALS_SECTION" = "Enable Additionals Section";
+  "ENABLE_SECTION" = "Enable Section";
+
+  "HAPTIC_ANIMATIONS" = "Haptic Animations - Taptic Engine And iOS 13 Only";
+
+  "HAPTIC_LOCK_ANIMATION" = "Haptic Lock Animation";
+
+}

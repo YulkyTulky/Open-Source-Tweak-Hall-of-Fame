@@ -1,0 +1,34 @@
+{
+
+  "ENABLE_HOMESCREEN_SECTION" = "ホームスクリーンの設定を有効化";
+  "ENABLE_SECTION" = "有効化";
+
+  "HAPTIC_FEEDBACK_WHEN" = "この時Haptic触感を起こします！";
+
+  "3DTOUCH_ACTION_OR_DISMISSES" = "3DTouch アクション/選択をした時";
+  "OPENING_FOLDER" = "フォルダーを開いた時";
+  "CLOSING_FOLDER" = "フォルダーを閉じた時";
+  "TAPPING_ICON" = "アイコンをタップしたとき";
+  "SWIPING_TO_NEXT_OR_PREVIOUS_PAGE" = "ページをスワイプした時";
+  "OPENING_SPOTLIGHT_SEARCH" = "Spotlightを開いた時";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "強さのカスタム設定";
+
+  "CUSTOM_3DTOUCH_STRENGTH" = "3DTouch アクション/選択をした時の強さ";
+  "CUSTOM_FOLDER_OPEN_STRENGTH" = "フォルダーを開いた時の強さ";
+  "CUSTOM_FOLDER_CLOSE_STRENGTH" = "フォルダーを閉じた時";
+  "CUSTOM_ICON_TAP_STRENGTH" = "アイコンをタップしたとき";
+  "CUSTOM_PAGE_SWIPE_STRENGTH" = "ページをスワイプした時";
+  "CUSTOM_SPOTLIGHT_STRENGTH" = "Spotlightを開いた時";
+
+  "NONE" = "無し";
+  "LIGHT_HAPTIC_ENGINE" = "軽: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "中: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "重: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "弱: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "中: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "強: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "軟: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "硬: Taptic Engine";
+
+}

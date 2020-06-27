@@ -1,0 +1,32 @@
+{
+
+  "ENABLE_TWITTER_SUPPORT" = "Bật hỗ trợ cho Twitter";
+  "TWITTER_SUPPORT" = "Hỗ trợ cho Twitter";
+
+  "HAPTIC_FEEDBACK_WHEN" = "Phản hồi xúc giác khi..";
+
+  "USING_TABBAR" = "Sử dụng Tabbar";
+  "TAPPING_ON_A_TWEET" = "Nhấn vào một Tweet";
+  "TAPPING_A_DM_CHAT" = "Nhấn vào một DM";
+  "TAPPING_ON_A_NOTIFICATION" = "Nhấn vào một thông báo";
+  "USING_THE_FLOATING_TWEET_BUTTON" = "Sử dụng nút Tweet Floating";
+
+  "CUSTOM_STRENGTH_SETTINGS" = "Cài đặt tuỳ chỉnh cường độ";
+
+  "CUSTOM_TABBAR_STRENGTH" = "Khi sử dụng Tabbar";
+  "CUSTOM_TWEET_STRENGTH" = "Khi nhấn vào một Tweet";
+  "CUSTOM_DM_STRENGTH" = "Khi nhấn vào một DM";
+  "CUSTOM_NOTIFICATION_STRENGTH" = "Khi nhấn vào một thông báo";
+  "CUSTOM_FLOATING_TWEET_BUTTON_STRENGTH" = "Khi sử dụng nút Tweet Floating";
+
+  "NONE" = "Không";
+  "LIGHT_HAPTIC_ENGINE" = "Nhẹ: Haptic Engine";
+  "MEDIUM_HAPTIC_ENGINE" = "Vừa: Haptic Engine";
+  "HEAVY_HAPTIC_ENGINE" = "Mạnh: Haptic Engine";
+  "LIGHT_TAPTIC_ENGINE" = "Nhẹ: Taptic Engine";
+  "MEDIUM_TAPTIC_ENGINE" = "Vừa: Taptic Engine";
+  "STRONG_TAPTIC_ENGINE" = "Mạnh: Taptic Engine";
+  "SOFT_TAPTIC_ENGINE" = "Mềm mại: Taptic Engine";
+  "RIGID_TAPTIC_ENGINE" = "Rất mạnh: Taptic Engine";
+
+}
