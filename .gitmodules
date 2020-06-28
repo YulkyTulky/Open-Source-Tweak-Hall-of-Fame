@@ -13,6 +13,9 @@
 [submodule "Iris"]
 	path = Iris
 	url = https://github.com/jacobcxdev/Iris.git
+[submodule "Libellum"]
+        path = Libellum
+        url = https://github.com/LacertosusRepo/Open-Source-Tweaks.git
 [submodule "PerfectMusic"]
 	path = PerfectMusic
 	url = https://github.com/johnzaro/PerfectMusic.git
@@ -25,6 +28,3 @@
 [submodule "Xen-HTML"]
 	path = Xen-HTML
 	url = https://github.com/Matchstic/Xen-HTML.git
-[submodule "Open-Source-Tweaks"]
-	path = Open-Source-Tweaks
-	url = https://github.com/LacertosusRepo/Open-Source-Tweaks.git
