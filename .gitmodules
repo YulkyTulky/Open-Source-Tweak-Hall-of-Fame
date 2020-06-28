@@ -25,3 +25,6 @@
 [submodule "Xen-HTML"]
 	path = Xen-HTML
 	url = https://github.com/Matchstic/Xen-HTML.git
+[submodule "Open-Source-Tweaks"]
+	path = Open-Source-Tweaks
+	url = https://github.com/LacertosusRepo/Open-Source-Tweaks.git
