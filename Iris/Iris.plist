@@ -1,1 +1,0 @@
-{ Filter = { Bundles = ( "com.apple.MobileSMS", "com.apple.imagent", "com.apple.tccd", "com.apple.springboard" ); }; }
